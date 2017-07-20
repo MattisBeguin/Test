@@ -1,1 +1,1 @@
-Titre du fichier1.txt
+Titre du fichier1.txt modifié dans la branche Nouvelle-fonctionnalité
