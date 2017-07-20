@@ -1,1 +1,1 @@
-Titre du fichier1.txt modifié depuis la branche master
+Titre du fichier1.txt modifié depuis la branche master pour résoudre le conflit de la fusion de branche
